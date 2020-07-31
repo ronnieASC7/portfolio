@@ -1,0 +1,29 @@
+body{
+    background:beige;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+.description-box {
+    text-align: center;
+}
+​
+.container img {
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    margin: auto;
+}
+​
+h1 {
+    text-align: center;
+
+}
